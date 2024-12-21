@@ -1,4 +1,4 @@
-# data_architecture_course
+# Project Description
 
 # Introduction
 This project involved individually designing a database to represent an eCommerce website, Dressman. The database was modeled to provide users access to all typical eCommerce functionalities, such as login, personal details, payment methods, and product catalogs. The project was divided into two parts:
